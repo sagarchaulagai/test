@@ -8,7 +8,7 @@
     "description": "A curated collection of Nepali audiobooks, novels and stories from Shruti Sambeg and other programs.",
     "cover_url": "https://abpaudel.com/nepali-audiobooks/nepali-audiobooks.jpg",
     "homepage_url": "https://abpaudel.com/nepali-audiobooks/",
-    "update_url": "https://abpaudel.com/nepali-audiobooks/",
+    "update_url": "https://raw.githubusercontent.com/sagarchaulagai/test/refs/heads/main/test.json",
     "default_language": "ne",
     "publisher": {
       "name": "Shruti Sambeg / Ujyaalo 90 Network",
